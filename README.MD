@@ -1,7 +1,7 @@
-# H1 EasyNotes 
+# EasyNotes <img src="note.jpg" width = "25"> 
 <img src="1.png" width="400">
 
-# H3 Steps to install EasyNotes in your chrome browser
+# Steps to install EasyNotes in your chrome browser
 ```
 1. Clone the repository
 2. Go to [extensions] (chrome://extensions/)
