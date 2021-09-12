@@ -1,5 +1,5 @@
-# EasyNotes <img src="note.jpg" width = "25"> 
-<img src="1.png" width="400">
+# EasyNotes <img src="images/note.jpg" width = "25"> 
+<img src="images/1.png" width="400">
 
 # Steps to install EasyNotes in your chrome browser
 ```
