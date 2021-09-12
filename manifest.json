@@ -1,0 +1,31 @@
+{
+    "name": "EasyNotes",
+    "description": "Productivity Extension",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "index.html"
+    },
+    "background": {
+        "scripts": [
+            "background.js"
+        ],
+        "css": [
+            "style.css"
+        ]
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": [
+                "notes.js"
+            ]
+        }
+    ],
+    "permissions": [
+        "activeTab",
+        "identity.email"
+    ]
+}
